@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>A igreja que Jesus sonhou na Cruz</title>
+    <link>https://archive.org/details/livro-completo-40-20-15</link>
+    <language>pt-BR</language>
+    <copyright>© 2025 Julio Leandrini</copyright>
+    <itunes:author>Julio Leandrini</itunes:author>
+    <itunes:summary>A Igreja que Jesus Sonhou na Cruz é um chamado para que a igreja atual retorne às raízes da fé, vivendo de forma coerente com os princípios e o propósito estabelecidos por Cristo na cruz.</itunes:summary>
+    <description>A Igreja que Jesus Sonhou na Cruz é um chamado para que a igreja atual retorne às raízes da fé, vivendo de forma coerente com os princípios e o propósito estabelecidos por Cristo na cruz.</description>
+    <itunes:owner>
+      <itunes:name>Julio Leandrini</itunes:name>
+      <itunes:email>prjulioleandrini@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://archive.org/download/livro-completo-40-20-15/CAPA%20PNG%206.png"/>
+    <itunes:category text="Religion & Spirituality"/>
+    <itunes:explicit>no</itunes:explicit>
+
+    <item>
+      <title>A igreja que Jesus sonhou na Cruz</title>
+      <description>A Igreja que Jesus Sonhou na cruz é um chamado para que a igreja atual retorne às raízes da fé, vivendo de forma coerente com os princípios e o propósito estabelecidos por Cristo na cruz.</description>
+      <enclosure url="https://archive.org/download/livro-completo-40-20-15/LIVRO%20COMPLETO%20-%2040%25-20%25-15%25.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://archive.org/download/livro-completo-40-20-15/LIVRO%20COMPLETO%20-%2040%25-20%25-15%25.mp3</guid>
+      <pubDate>Thu, 25 Apr 2024 10:00:00 GMT</pubDate>
+      <itunes:duration>1:50:35</itunes:duration>
+    </item>
+  </channel>
+</rss>
